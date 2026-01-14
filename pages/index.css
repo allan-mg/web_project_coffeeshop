@@ -102,9 +102,10 @@
 .header__footer {
   margin-top: auto;
   width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: repeat(3, auto);
+  row-gap: 0;
 }
 
 .header__paragraph {
@@ -117,7 +118,14 @@
   color: #838383;
 }
 
+.header__paragraph_type_hours {
+  grid-column: 1;
+}
+
 .header__paragraph_type_address {
+  grid-column: 2;
+  grid-row: 3;
+  justify-self: end;
   text-align: right;
 }
 
