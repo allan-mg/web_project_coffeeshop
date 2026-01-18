@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
@@ -13,8 +13,6 @@
       name="keywords"
       content="cafetería, coffee, latte, espresso, cappuccino, té, pasteles, bocadillos, bebidas calientes, bebidas frías, ambiente acogedor, WiFi gratis, trabajo remoto"
     />
-
-    <link rel="stylesheet" href="./vendor/normalize.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -99,7 +97,15 @@
                 class="recipes__iframe"
                 src="https://www.youtube.com/embed/j6VlT_jUVPc?si=Zo5P8AS1E7AKSRko"
                 title="Receta en Aeropress"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allow="
+                  accelerometer;
+                  autoplay;
+                  clipboard-write;
+                  encrypted-media;
+                  gyroscope;
+                  picture-in-picture;
+                  web-share;
+                "
                 allowfullscreen
               ></iframe>
 
@@ -115,7 +121,15 @@
                 class="recipes__iframe"
                 src="https://www.youtube.com/embed/st571DYYTR8?si=k-VwUWl6fwxL0gtG"
                 title="Receta en cafetera francesa"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allow="
+                  accelerometer;
+                  autoplay;
+                  clipboard-write;
+                  encrypted-media;
+                  gyroscope;
+                  picture-in-picture;
+                  web-share;
+                "
                 allowfullscreen
               ></iframe>
 
@@ -197,7 +211,48 @@
         </section>
       </main>
 
-      <footer class="footer" id="contactos"></footer>
+      <!-- INICIA FOOTER -->
+      <footer class="footer" id="contactos">
+        <div class="footer__content">
+          <img
+            class="footer__logo"
+            src="./images/logo_coffeeshop_light.svg"
+            alt="Triple Espresso"
+          />
+
+          <div class="footer__social">
+            <p class="footer__social-heading">Redes sociales</p>
+
+            <ul class="footer__list">
+              <li class="footer__list-item">
+                <a class="footer__social-link" href="#">
+                  <img
+                    class="footer__social-icon"
+                    src="./images/facebook_white.svg"
+                    alt="Facebook"
+                  />
+                  Facebook
+                </a>
+              </li>
+
+              <li class="footer__list-item">
+                <a class="footer__social-link" href="#">
+                  <img
+                    class="footer__social-icon"
+                    src="./images/instagram_white.svg"
+                    alt="Instagram"
+                  />
+                  Instagram
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footer__circle"></div>
+
+        <p class="footer__copyright">&copy; 2025 Allan M.G.</p>
+      </footer>
     </div>
   </body>
 </html>
