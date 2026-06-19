@@ -1,27 +1,44 @@
 # Cafetería Triple Espresso
 
+Landing page desarrollada para una cafetería ficticia como parte de mi formación en Desarrollo Web en TripleTen. El proyecto está enfocado en la construcción de una página estática con estructura semántica, estilos organizados y metodología BEM.
+
 ## Descripción del proyecto
 
-Este proyecto es una página web estática para la cafetería **Triple Espresso**, diseñada como una landing page con secciones de:
+El objetivo de este proyecto fue crear una página web clara y bien estructurada para presentar la cafetería Triple Espresso. La página incluye secciones informativas, videos embebidos, un formulario de reservación y enlaces de contacto.
 
-- **Encabezado (header)** con navegación y contenido principal.
-- **Recetas (recipes)** con videos embebidos de YouTube.
-- **Reservación (reservation)** con un formulario para reservar una mesa.
-- **Pie de página (footer)** con enlaces a redes sociales.
+Durante el desarrollo practiqué la organización de archivos, el uso de HTML semántico, CSS, metodología BEM y buenas prácticas de maquetación.
 
-La página está maquetada siguiendo buenas prácticas de estructura y estilos, incluyendo el uso de la metodología **BEM** para nombrar clases y mantener el CSS organizado.
+## Secciones principales
+
+* Encabezado con navegación y contenido principal.
+* Sección de recetas con videos embebidos de YouTube.
+* Sección de reservación con formulario.
+* Pie de página con enlaces a redes sociales.
 
 ## Tecnologías utilizadas
 
-- **HTML5** (estructura semántica)
-- **CSS3** (Flexbox/Grid, posicionamiento, estados `:hover`, backgrounds)
-- **Metodología BEM** (nomenclatura de clases)
-- **Normalize.css** (normalización de estilos entre navegadores)
-- **Google Fonts** (Inter y Noto Serif)
+* HTML5
+* CSS3
+* Metodología BEM
+* Formularios HTML
+* Flexbox
+* Normalize.css
+* Google Fonts
+* Git y GitHub
+
+## Aprendizaje
+
+Este proyecto me ayudó a reforzar la estructura semántica en HTML y la organización de estilos en CSS. También practiqué la metodología BEM para nombrar clases de forma clara y mantener un código más ordenado.
+
+Además, trabajé con formularios, videos embebidos y estructura de secciones para construir una landing page funcional y profesional.
 
 ## Planes de mejora
 
-En el futuro me gustaría implementar:
+* Implementar diseño responsivo para pantallas pequeñas.
+* Agregar validación del formulario con JavaScript.
+* Mejorar la experiencia visual en dispositivos móviles.
 
-- **Validación y feedback del formulario** con JavaScript (mensajes de error claros y confirmación de envío).
-- **Diseño responsive** para pantallas pequeñas (mobile/tablet) usando media queries.
+## Enlaces
+
+* Demo en vivo: PENDIENTE
+* Repositorio: https://github.com/allan-mg/web_project_coffeeshop
