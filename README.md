@@ -40,5 +40,5 @@ Además, trabajé con formularios, videos embebidos y estructura de secciones pa
 
 ## Enlaces
 
-* Demo en vivo: PENDIENTE
+* Demo en vivo: https://allan-mg.github.io/web_project_coffeeshop/
 * Repositorio: https://github.com/allan-mg/web_project_coffeeshop
