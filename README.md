@@ -10,21 +10,21 @@ Durante el desarrollo practiqué la organización de archivos, el uso de HTML se
 
 ## Secciones principales
 
-* Encabezado con navegación y contenido principal.
-* Sección de recetas con videos embebidos de YouTube.
-* Sección de reservación con formulario.
-* Pie de página con enlaces a redes sociales.
+- Encabezado con navegación y contenido principal.
+- Sección de recetas con videos embebidos de YouTube.
+- Sección de reservación con formulario.
+- Pie de página con enlaces a redes sociales.
 
 ## Tecnologías utilizadas
 
-* HTML5
-* CSS3
-* Metodología BEM
-* Formularios HTML
-* Flexbox
-* Normalize.css
-* Google Fonts
-* Git y GitHub
+- HTML5
+- CSS3
+- Metodología BEM
+- Formularios HTML
+- Flexbox
+- Normalize.css
+- Google Fonts
+- Git y GitHub
 
 ## Aprendizaje
 
@@ -34,11 +34,15 @@ Además, trabajé con formularios, videos embebidos y estructura de secciones pa
 
 ## Planes de mejora
 
-* Implementar diseño responsivo para pantallas pequeñas.
-* Agregar validación del formulario con JavaScript.
-* Mejorar la experiencia visual en dispositivos móviles.
+- Implementar diseño responsivo para pantallas pequeñas.
+- Agregar validación del formulario con JavaScript.
+- Mejorar la experiencia visual en dispositivos móviles.
+
+## Demo de funcionamiento
+
+![Demo del proyecto](./images/demo.gif)
 
 ## Enlaces
 
-* Demo en vivo: https://allan-mg.github.io/web_project_coffeeshop/
-* Repositorio: https://github.com/allan-mg/web_project_coffeeshop
+- Demo en vivo: https://allan-mg.github.io/web_project_coffeeshop/
+- Repositorio: https://github.com/allan-mg/web_project_coffeeshop
